@@ -1,0 +1,10 @@
+{
+  "name": "scheme-client-sample",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "scheme": "git+https://github.com/omar-khalil/scheme.git",
+    "typescript": "^5.4.5"
+  }
+}
